@@ -70,13 +70,8 @@ export const internships = [
     duration: "Duration not specified",
     description: "Developed a CNN-based image classification system using TensorFlow and Keras. Performed data preprocessing, augmentation, and model optimization using accuracy and F1-score metrics.",
   },
-  {
-    company: "Standard Solutions",
-    role: "Cyber Breach Prediction Intern",
-    duration: "Duration not specified",
-    description: "Worked on predicting cyber breach risks using machine learning techniques and data analysis.",
-  },
 ];
+
 
 export const projects = [
   {
