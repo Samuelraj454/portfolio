@@ -15,7 +15,6 @@ export const skills = [
     items: [
       { name: "Python", level: 90 },
       { name: "SQL", level: 85 },
-      { name: "Java", level: 70 },
     ],
   },
   {
@@ -33,7 +32,6 @@ export const skills = [
       { name: "Pandas", level: 90 },
       { name: "Scikit-learn", level: 85 },
       { name: "TensorFlow", level: 80 },
-      { name: "Keras", level: 80 },
       { name: "Matplotlib", level: 85 },
     ],
   },
